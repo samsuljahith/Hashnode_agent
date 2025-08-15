@@ -1,0 +1,13 @@
+.env
+**/.env
+*.env
+.env.*
+# venv
+.venv/
+**/.venv/
+# macOS
+.DS_Store
+
+# allow examples
+!.env.example
+!**/.env.example
